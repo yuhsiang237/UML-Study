@@ -40,3 +40,28 @@ public class Phonebook
   private ArrayList _pnos;
 }
 ```
+
+3.繼承  
+![image](/類別圖/assets/5.jpg)
+```csharp
+public class Employee
+{
+  
+}
+public class SalariedEmployee : Employee
+{
+
+}
+```
+4.實作  
+![image](/類別圖/assets/6.jpg)
+```csharp
+interface ButtonListener
+{
+  
+}
+public class ButtonDialerAdapter : ButtonListener
+{
+
+}
+```
