@@ -149,7 +149,7 @@ public class A
 
 
 10.巢狀類別  
-![image](/類別圖/assets/11.jpg)
+![image](/類別圖/assets/15.jpg)
 ```csharp
 public class A
 {
