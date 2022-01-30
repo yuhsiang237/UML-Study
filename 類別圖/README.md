@@ -74,4 +74,14 @@ public abstract class Shape
   public abstruct void Draw();
 }
 ```
+6.聚合  
+![image](/類別圖/assets/8.jpg)
+```csharp
+public class Whole
+{
+  private Part _part;
+}
+```
+聚合(aggregation)，意味整體/部分的關係，只是一種暗示。
+
 
