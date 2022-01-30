@@ -22,3 +22,4 @@ public class Dialer
   protected bool RecordDigit(int n);
 }
 ```
+-表示private、#表示protected、+表示public
