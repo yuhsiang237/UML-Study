@@ -23,3 +23,20 @@ public class Dialer
 }
 ```
 -表示private、#表示protected、+表示public
+
+2.關聯  
+![image](/類別圖/assets/3.jpg)
+```csharp
+public class Phone
+{
+  private Button _buttons[15];
+}
+```
+如果要表示一對多的話:
+![image](/類別圖/assets/4.jpg)
+```csharp
+public class Phonebook
+{
+  private ArrayList _pnos;
+}
+```
