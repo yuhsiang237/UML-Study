@@ -102,3 +102,60 @@ public class BinaryTreeNode
 
 }
 ```
+9.關聯模板  
+![image](/類別圖/assets/11.jpg)
+```csharp
+public class A
+{
+  public B MakeB()
+  {
+    return new B();
+  }
+}
+```
+
+![image](/類別圖/assets/12.jpg)
+```csharp
+public class A
+{
+  public void F()
+  {
+    B b = new B();
+  }
+}
+```
+
+![image](/類別圖/assets/13.jpg)
+```csharp
+public class A
+{
+  public void F(B b)
+  {
+    // use b;
+  }
+}
+```
+![image](/類別圖/assets/14.jpg)
+```csharp
+public class A
+{
+  private B _b;
+  public void F()
+  {
+    _b.F();
+  }
+}
+```
+
+
+9.巢狀類別  
+![image](/類別圖/assets/11.jpg)
+```csharp
+public class A
+{
+  public class B 
+  {
+  
+  }
+}
+```
