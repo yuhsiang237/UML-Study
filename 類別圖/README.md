@@ -92,4 +92,13 @@ public class Owner
   private W _ward;
 }
 ```
+8.多重性  
+![image](/類別圖/assets/10.jpg)
+```csharp
+public class BinaryTreeNode
+{
+  private BinaryTreeNode _leftNode;
+  private BinaryTreeNode _rightNode;
 
+}
+```
