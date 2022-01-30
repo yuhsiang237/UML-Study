@@ -65,3 +65,13 @@ public class ButtonDialerAdapter : ButtonListener
 
 }
 ```
+5.抽象類別  
+![image](/類別圖/assets/7.jpg)
+```csharp
+public abstract class Shape
+{
+  private Point _points;
+  public abstruct void Draw();
+}
+```
+
