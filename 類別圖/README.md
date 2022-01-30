@@ -82,6 +82,13 @@ public class Whole
   private Part _part;
 }
 ```
-聚合(aggregation)，意味整體/部分的關係，只是一種暗示。
-
+聚合(aggregation)，意味整體/部分的關係，只是一種暗示。  
+7.組合
+![image](/類別圖/assets/7.jpg)
+```csharp
+public class Owner
+{
+  private W _ward;
+}
+```
 
