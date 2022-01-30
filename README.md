@@ -8,15 +8,15 @@
   <tr>
     <td>項次</td>
     <td>項目</td>
-    <td>命名方式</td>
-    <td>範例</td>
+    <td>描述</td>
+    <td>連結</td>
   </tr>
   <tr>
     <td>1</td>
     <td>類別圖</td>
-    <td>[連結](https://github.com/yuhsiang237/UML-Study/tree/master/%E9%A1%9E%E5%88%A5%E5%9C%96)</td>
     <td>可以顯示類別成員變數、函式、繼承、參考關係。
 描繪類別間描述原始程式等級的依賴關係。</td>
+    <td> <a href="https://github.com/yuhsiang237/UML-Study/tree/master/%E9%A1%9E%E5%88%A5%E5%9C%96">連結</a> </td>
    </tr>
 </table>
 
