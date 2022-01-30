@@ -148,7 +148,7 @@ public class A
 ```
 
 
-9.巢狀類別  
+10.巢狀類別  
 ![image](/類別圖/assets/11.jpg)
 ```csharp
 public class A
