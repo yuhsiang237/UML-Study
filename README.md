@@ -4,21 +4,16 @@
     UML是一個工具，協助你思考、交流設計。
 ### 目錄
 
-<table>
-  <tr>
-    <td>項次</td>
-    <td>項目</td>
-    <td>描述</td>
-    <td>連結</td>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>類別圖</td>
-    <td>可以顯示類別成員變數、函式、繼承、參考關係。
-描繪類別間描述原始程式等級的依賴關係。</td>
-    <td> <a href="https://github.com/yuhsiang237/UML-Study/tree/master/%E9%A1%9E%E5%88%A5%E5%9C%96">連結</a> </td>
-   </tr>
-</table>
+結構性圖形（Structure diagrams）
+- <a href="https://github.com/yuhsiang237/UML-Study/tree/master/%E9%A1%9E%E5%88%A5%E5%9C%96">類別圖</a> 
+- <a>物件圖</a> 
+
+行為式圖形（Behavior diagrams）
+- <a>狀態圖</a>
+- <a>使用案例圖</a>
+
+互動性圖形（Interaction diagrams）
+- <a>循序圖</a> 
 
 ### 使用時機
 有些東西需要被測試，並且使用UML比程式碼來測試代價更低時，就該使用UML。  
