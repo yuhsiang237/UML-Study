@@ -13,7 +13,7 @@
 - <a>使用案例圖</a>
 
 互動性圖形（Interaction diagrams）
-- <a href="https://github.com/yuhsiang237/UML-Study/tree/master/%E9%A1%9E%E5%88%A5%E5%9C%96">循序圖</a> 
+- <a href="https://github.com/yuhsiang237/UML-Study/tree/master/循序圖">循序圖</a> 
 
 ...撰寫當中。
 
