@@ -25,3 +25,13 @@ e表示訊息中的變數使用，在此代表GetEmployee的返回值。
 
 然後可見到物件的EmployeeDB沒有底線，表示他是類別。  
 (似乎UML1、UML2表示法又會有底線、沒底線差異，因此主要以能看懂大方向邏輯為主就好)  
+
+```csharp
+public class EmployeeDB
+{
+  public static Employee GetEmployee(string empid)
+  {
+    // Todo
+  }
+}
+```
