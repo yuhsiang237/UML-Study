@@ -6,7 +6,9 @@
 1. 物件（Object）
 2. 生命線（Lifeline）
 3. 訊息（Message）
-4. 活化（Activation）
+4. 活化(啟動)（Activation）
+
+![image](/循序圖/assets/1.jpg)
 
 ### 使用時機
 當你需要立即向人解釋一組物件的協作方式、想把協作方式視覺化時才用循序圖。
