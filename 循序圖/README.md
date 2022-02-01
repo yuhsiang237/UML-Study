@@ -41,3 +41,7 @@ public class EmployeeDB
 
 在這範例中示範了迴圈使用，用一個大方框把重複步驟框起來，右下角寫迴圈條件。  
 但通常很少用，因為循序圖通常表示物件之間的連結，而不是演算法細節。  
+
+簡單來說就是用GetEmployeeList取得員工的List變數idList。  
+接著進到迴圈，透過GetEmployee取的每個idList的Employee變數e，對每個e操作Pay，直到結束迴圈。  
+
